@@ -10,7 +10,7 @@
     <com.airbnb.lottie.LottieAnimationView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:lottie_rawRes="@raw/lottiecric"
+        app:lottie_rawRes="@raw/wicket"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"/>
 
